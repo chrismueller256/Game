@@ -1,2 +1,2 @@
 # Game
-Is Game
+Is a Game
